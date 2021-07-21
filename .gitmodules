@@ -1,5 +1,45 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/tuqmano/universe
 	shallow = true
 	branch = HEAD
+[submodule "polAr"]
+	path = polAr
+	url = https://github.com/electorAr/polAr
+	shallow = true
+	registered = true
+[submodule "geofacetAr"]
+	path = geofacetAr
+	url = https://github.com/electorAr/gepfacetAr
+	shallow = true
+	registered = true
+[submodule "geoAr"]
+	path = geoAr
+	url = https://github.com/PoliticaArgentina/geoAr
+	shallow = true
+	registered = true
+[submodule "electorAr"]
+	path = electorAr
+	url = https://github.com/PoliticaArgentina/electorAr
+	shallow = true
+	registered = true
+[submodule "legislAr"]
+	path = legislAr
+	url = https://github.com/PoliticaArgentina/legislAr
+	shallow = true
+	registered = true
+[submodule "discursAr"]
+	path = discursAr
+	url = https://github.com/PoliticaArgentina/discursAr
+	shallow = true
+	registered = true
+[submodule "opinAr"]
+	path = opinAr
+	url = https://github.com/PoliticaArgentina/opinAr
+	shallow = true
+	registered = true
+[submodule "polArverse"]
+	path = polArverse
+	url = https://github.com/PoliticaArgentina/polArverse
+	shallow = true
+	registered = true
