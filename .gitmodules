@@ -38,3 +38,8 @@
 	url = https://github.com/PoliticaArgentina/opinAr
 	shallow = true
 	registered = true
+[submodule "polArverse"]
+	path = polArverse
+	url = https://github.com/PoliticaArgentina/polArverse
+	shallow = true
+	registered = true
