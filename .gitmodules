@@ -8,8 +8,8 @@
 	url = https://github.com/electorArg/polAr/
 	shallow = true
 	registered = true
-[submodule "geofacetAr"]
-	path = geofacetAr
+[submodule "geofaceteAR"]
+	path = geofaceteAR
 	url = https://github.com/electorArg/geofaceteAR
 	shallow = true
 	registered = true
