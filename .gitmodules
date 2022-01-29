@@ -43,3 +43,8 @@
 	url = https://github.com/PoliticaArgentina/polArverse
 	shallow = true
 	registered = true
+[submodule "polArViz"]
+	path = polArViz
+	url = https://github.com/PoliticaArgentina/polArViz
+	shallow = true
+	registered = false
