@@ -47,4 +47,4 @@
 	path = polArViz
 	url = https://github.com/PoliticaArgentina/polArViz
 	shallow = true
-	registered = false
+	registered = true

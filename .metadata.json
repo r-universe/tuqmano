@@ -22,5 +22,8 @@
   },
   {
     "package": "polArverse"
+  },
+  {
+    "package": "polArViz"
   }
 ]
