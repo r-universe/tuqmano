@@ -5,7 +5,7 @@
 	branch = HEAD
 [submodule "polAr"]
 	path = polAr
-	url = https://github.com/electorArg/polAr/
+	url = https://github.com/electorArg/polAr
 	shallow = true
 	registered = true
 [submodule "geofaceteAR"]
