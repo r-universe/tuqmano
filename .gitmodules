@@ -48,3 +48,13 @@
 	url = https://github.com/PoliticaArgentina/polArViz
 	shallow = true
 	registered = true
+[submodule "herramientas"]
+	path = herramientas
+	url = https://github.com/dnme-minturdep/herramientas
+	shallow = true
+	registered = true
+[submodule "comunicacion"]
+	path = comunicacion
+	url = https://github.com/dnme-minturdep/comunicacion
+	shallow = true
+	registered = true

@@ -25,5 +25,11 @@
   },
   {
     "package": "polArViz"
+  },
+  {
+    "package": "herramientas"
+  },
+  {
+    "package": "comunicacion"
   }
 ]
