@@ -6,7 +6,8 @@
     "package": "geofaceteAR"
   },
   {
-    "package": "geoAr"
+    "package": "geoAr",
+    "oncran": true
   },
   {
     "package": "electorAr"
