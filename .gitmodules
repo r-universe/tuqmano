@@ -58,3 +58,8 @@
 	url = https://github.com/dnme-minturdep/comunicacion
 	shallow = true
 	registered = true
+[submodule "censAr"]
+	path = censAr
+	url = https://github.com/PoliticaArgentina/censAr
+	shallow = true
+	registered = true
