@@ -63,3 +63,8 @@
 	url = https://github.com/PoliticaArgentina/censAr
 	shallow = true
 	registered = true
+[submodule "staplr"]
+	path = staplr
+	url = https://github.com/pridiltal/staplr
+	shallow = true
+	registered = false

@@ -64,5 +64,11 @@
     "url": "https://github.com/PoliticaArgentina/polArViz",
     "via": ["polArverse"],
     "from": "polArverse"
+  },
+  {
+    "package": "staplr",
+    "url": "https://github.com/pridiltal/staplr",
+    "via": ["comunicacion"],
+    "from": "comunicacion"
   }
 ]
