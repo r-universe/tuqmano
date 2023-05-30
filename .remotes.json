@@ -1,5 +1,11 @@
 [
   {
+    "package": "censAr",
+    "url": "https://github.com/PoliticaArgentina/censAr",
+    "via": ["polArverse"],
+    "from": "polArverse"
+  },
+  {
     "package": "discursAr",
     "url": "https://github.com/PoliticaArgentina/discursAr",
     "via": ["polArverse"],
@@ -21,12 +27,6 @@
     "package": "electorAr",
     "url": "https://github.com/PoliticaArgentina/electorAr",
     "via": ["polArverse", "polArViz"],
-    "from": "polArverse"
-  },
-  {
-    "package": "geoAr",
-    "url": "https://github.com/PoliticaArgentina/geoAr",
-    "via": ["polArverse"],
     "from": "polArverse"
   },
   {
