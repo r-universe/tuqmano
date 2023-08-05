@@ -2,42 +2,42 @@
 	path = .registry
 	url = https://github.com/tuqmano/universe
 	branch = HEAD
-[submodule "polAr"]
-	path = polAr
-	url = https://github.com/electorArg/polAr
-[submodule "geofaceteAR"]
-	path = geofaceteAR
-	url = https://github.com/electorArg/geofaceteAR
-[submodule "geoAr"]
-	path = geoAr
-	url = https://github.com/PoliticaArgentina/geoAr
-[submodule "electorAr"]
-	path = electorAr
-	url = https://github.com/PoliticaArgentina/electorAr
-[submodule "legislAr"]
-	path = legislAr
-	url = https://github.com/PoliticaArgentina/legislAr
-[submodule "discursAr"]
-	path = discursAr
-	url = https://github.com/PoliticaArgentina/discursAr
-[submodule "opinAr"]
-	path = opinAr
-	url = https://github.com/PoliticaArgentina/opinAr
-[submodule "polArverse"]
-	path = polArverse
-	url = https://github.com/PoliticaArgentina/polArverse
-[submodule "polArViz"]
-	path = polArViz
-	url = https://github.com/PoliticaArgentina/polArViz
-[submodule "herramientas"]
-	path = herramientas
-	url = https://github.com/dnme-minturdep/herramientas
-[submodule "comunicacion"]
-	path = comunicacion
-	url = https://github.com/dnme-minturdep/comunicacion
 [submodule "censAr"]
 	path = censAr
 	url = https://github.com/PoliticaArgentina/censAr
+[submodule "comunicacion"]
+	path = comunicacion
+	url = https://github.com/dnme-minturdep/comunicacion
+[submodule "discursAr"]
+	path = discursAr
+	url = https://github.com/PoliticaArgentina/discursAr
+[submodule "electorAr"]
+	path = electorAr
+	url = https://github.com/PoliticaArgentina/electorAr
+[submodule "geoAr"]
+	path = geoAr
+	url = https://github.com/PoliticaArgentina/geoAr
+[submodule "geofaceteAR"]
+	path = geofaceteAR
+	url = https://github.com/electorArg/geofaceteAR
+[submodule "herramientas"]
+	path = herramientas
+	url = https://github.com/dnme-minturdep/herramientas
+[submodule "legislAr"]
+	path = legislAr
+	url = https://github.com/PoliticaArgentina/legislAr
+[submodule "opinAr"]
+	path = opinAr
+	url = https://github.com/PoliticaArgentina/opinAr
+[submodule "polAr"]
+	path = polAr
+	url = https://github.com/electorArg/polAr
+[submodule "polArViz"]
+	path = polArViz
+	url = https://github.com/PoliticaArgentina/polArViz
+[submodule "polArverse"]
+	path = polArverse
+	url = https://github.com/PoliticaArgentina/polArverse
 [submodule "staplr"]
 	path = staplr
 	url = https://github.com/pridiltal/staplr
