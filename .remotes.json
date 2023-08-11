@@ -8,12 +8,6 @@
   {
     "package": "discursAr",
     "url": "https://github.com/PoliticaArgentina/discursAr",
-    "via": ["polArViz"],
-    "from": "polArViz"
-  },
-  {
-    "package": "discursAr",
-    "url": "https://github.com/PoliticaArgentina/discursAr",
     "via": ["polArverse"],
     "from": "polArverse"
   },
@@ -52,12 +46,6 @@
     "url": "https://github.com/PoliticaArgentina/legislAr",
     "via": ["polArverse"],
     "from": "polArverse"
-  },
-  {
-    "package": "opinAr",
-    "url": "https://github.com/PoliticaArgentina/opinAr",
-    "via": ["polArViz"],
-    "from": "polArViz"
   },
   {
     "package": "opinAr",
