@@ -50,6 +50,12 @@
   {
     "package": "opinAr",
     "url": "https://github.com/PoliticaArgentina/opinAr",
+    "via": ["polArViz"],
+    "from": "polArViz"
+  },
+  {
+    "package": "opinAr",
+    "url": "https://github.com/PoliticaArgentina/opinAr",
     "via": ["polArverse"],
     "from": "polArverse"
   },
