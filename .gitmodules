@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/tuqmano/universe
+	url = https://github.com/tuqmano/tuqmano.r-universe.dev
 	branch = HEAD
 [submodule "censAr"]
 	path = censAr
